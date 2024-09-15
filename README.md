@@ -58,7 +58,7 @@ Inspirations:
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](./diagrams/TRUST.svg)
+![ERD](./diagrams/erd.svg)
 
 ## REST API Endpoints
 
