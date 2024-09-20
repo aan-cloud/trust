@@ -24,9 +24,7 @@ Table of Contents:
 
 Inspirations:
 
-- <https://saiko.com.my/>
 - <https://remco.com.my/>
-- <https://www.eraspares.com/>
 
 ## Features
 
