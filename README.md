@@ -64,14 +64,15 @@ Inspirations:
 - Production: `https://trust.farhan.dev`
 - Local: `http://localhost:3000`
 
-| Endpoint          | HTTP     | Description               |
-| ----------------- | -------- | ------------------------- |
-| `/products`       | `GET`    | Get all products          |
-| `/products/:slug` | `GET`    | Get product by id         |
-| `/products/seed`  | `POST`   | Seed all initial products |
-| `/products`       | `POST`   | Add new product           |
-| `/products/:slug` | `DELETE` | Delete product by id      |
-| `/products/:slug` | `PATCH`  | Update product by id      |
+| Endpoint              | HTTP     | Description               |
+| --------------------- | -------- | ------------------------- |
+| `/products`           | `GET`    | Get all products          |
+| `/products/:slug`     | `GET`    | Get product by id         |
+| `/products/:category` | `GET`    | Get product by id         |
+| `/products/seed`      | `POST`   | Seed all initial products |
+| `/products`           | `POST`   | Add new product           |
+| `/products/:slug`     | `DELETE` | Delete product by id      |
+| `/products/:slug`     | `PATCH`  | Update product by id      |
 
 ### Product
 
