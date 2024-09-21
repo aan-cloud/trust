@@ -15,8 +15,8 @@ Table of Contents:
 
 ## Links
 
-- Website/Frontend: <https://trust.farhan.dev>
-  - Backend: <https://trust-backend.farhan.dev>
+- Website/Frontend: <https://trustfarhan.vercel.app/>
+  - Backend: <https://trust-backend-jvcy.onrender.com/>
 - Repositories:
   - General: <https://github.com/aan-cloud/trust>
   - Backend: <https://github.com/aan-cloud/trust-backend>
@@ -47,9 +47,25 @@ Inspirations:
 - Checkout page
   - On WhatsApp: Generate transaction format form.
 
+## Tech Stack and Dependencies
+
+  - Frontend :
+    - [Vite](https://vite.dev)
+    - [React](https://react.dev)
+    - [React Router](https://reactrouter.com)
+    - [Tailwindcss](https://tailwindcss.com)
+    - [NPM](https://npmjs.com)
+    - [Typescript](https://typescriptlang.org)
+    
+  - Backend :
+    - [Bun](https://bun.sh)
+    - [Typescript](https://typescriptlang.org)
+    - [Openapi](https://swagger.io)
+    - [Hono](https://hono.dev)
+
 ## UI Designs
 
-- Figma: <https://www.figma.com/design/3ijGGTIKpevl9sPWqlcJGM/Trust?node-id=0-1&t=0BYMeZt73WgfDr1f-1>
+- [Figma](https://www.figma.com/design/3ijGGTIKpevl9sPWqlcJGM/Trust?node-id=0-1&t=0BYMeZt73WgfDr1f-1)
 
 ### Home Page
 
