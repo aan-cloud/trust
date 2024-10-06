@@ -15,8 +15,8 @@ Table of Contents:
 
 ## Links
 
-- Website/Frontend: <https://trustfarhan.vercel.app/>
-  - Backend: <https://trust-backend-jvcy.onrender.com/>
+- Website/Frontend: <https://trust.muhammad-farhan.com/>
+  - Backend: <https://trust-api-muhammad-farhan.com/>
 - Repositories:
   - General: <https://github.com/aan-cloud/trust>
   - Backend: <https://github.com/aan-cloud/trust-backend>
@@ -77,7 +77,7 @@ Inspirations:
 
 ## REST API Endpoints
 
-- Production: `https://trust.farhan.dev`
+- Production: `https://trust.muhammad-farhan.com`
 - Local: `http://localhost:3000`
 
 | Endpoint              | HTTP     | Description               |
