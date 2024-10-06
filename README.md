@@ -77,7 +77,7 @@ Inspirations:
 
 ## REST API Endpoints
 
-- Production: `https://trust.muhammad-farhan.com`
+- Production: `https://trust-api.muhammad-farhan.com`
 - Local: `http://localhost:3000`
 
 | Endpoint              | HTTP     | Description               |
