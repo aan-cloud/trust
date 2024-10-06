@@ -16,7 +16,7 @@ Table of Contents:
 ## Links
 
 - Website/Frontend: <https://trust.muhammad-farhan.com/>
-  - Backend: <https://trust-api-muhammad-farhan.com/>
+  - Backend: <https://trust-api.muhammad-farhan.com/>
 - Repositories:
   - General: <https://github.com/aan-cloud/trust>
   - Backend: <https://github.com/aan-cloud/trust-backend>
