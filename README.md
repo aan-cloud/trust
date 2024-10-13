@@ -41,7 +41,6 @@ Inspirations:
 - Shopping cart page
   - Product items to buy
     - Image, name, price, quantity, total (price x quantity)
-    - Remove item
   - Link: continue shopping, go to products catalogue
   - Link: checkout
 - Checkout page
